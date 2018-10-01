@@ -6,6 +6,7 @@ Created on Mon Sep 10 13:55:57 2018
 """
 
 # Game Developer : Hamdy Abou El Anein
+# His Github: https://github.com/hamdyaea/Daylight-Pong-python3
 
 import random
 import numpy as np
